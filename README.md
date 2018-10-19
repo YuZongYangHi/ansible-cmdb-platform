@@ -15,12 +15,14 @@ cmdb & ansible
 
 ``
 基于ansible api 2.4+ 方式调用发布主机，可基于ad-hoc模式 && play-book模式
-```
+``
 
 
-```
+``
 基于异步非阻塞模式进行任务发布，定时任务完全替代crontab利用celery进行异步任务分发
-```
+``
+
+
 
 
 
