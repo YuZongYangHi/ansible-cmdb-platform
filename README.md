@@ -12,7 +12,7 @@ cmdb & ansible
 
 ``前端:React + Antd + axios + react-router``
 
-``DB: MySQL + Redis + Memcache + MongoDB``
+``DB: MySQL5.7+ + Redis + Memcache + MongoDB``
 
 ``
 支持定时检测主机存活状况，基于ansible fact进行主机硬件信息收集，展示，可支持更新
