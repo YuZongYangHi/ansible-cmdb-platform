@@ -9,7 +9,9 @@ cmdb & ansible
 ``4、日志管理(登录日志，操作日志记录)``
 
 ``后端:Django2.0.1``
+
 ``前端:React + Antd + axios + react-router``
+
 ``DB: MySQL + Redis + Memcache + MongoDB``
 
 ``
