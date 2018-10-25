@@ -27,6 +27,17 @@ cmdb & ansible
 基于异步非阻塞模式进行任务发布，定时任务完全替代crontab利用celery进行异步任务分发,基于ansible api方式进行主机群组模式或主机多选模式进行定时任务分发！
 ``
 
+``
+pip -r package_list.txt
+``
+
+``
+cd automation_ansible_api/ && python3.6  manage.py runserver
+``
+
+``
+cd automation_ansible_ui/ && yarn start 
+``
 
 
 
