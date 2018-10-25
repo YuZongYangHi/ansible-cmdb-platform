@@ -13,6 +13,10 @@ cmdb & ansible
 
 ![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number3.gif)
 
+``可进行联系人管理增删改查、ansible主机群组增删改查``
+![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number4.gif)
+
+
 ``3、发布管理(发布任务，发布详情，定时任务)``
 
 ``4、日志管理(登录日志，操作日志记录)``
