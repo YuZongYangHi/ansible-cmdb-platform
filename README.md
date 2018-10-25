@@ -1,10 +1,14 @@
 cmdb & ansible 
 
-![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number1.gif)
+
 
 ``1、视图分析图``
+![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number1.gif)
+
 
 ``2、资产管理(主机管理，ansible主机群组管理，负责人管理)``
+![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number2.gif)
+
 
 ``3、发布管理(发布任务，发布详情，定时任务)``
 
