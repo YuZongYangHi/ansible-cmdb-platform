@@ -1,0 +1,10 @@
+[global]
+172.20.35.177 ansible_ssh_user=root
+172.20.35.16 ansible_ssh_user=root 
+
+
+[devops]
+106.14.154.11 ansible_ssh_user=root
+139.196.90.14 ansible_ssh_user=root
+140.143.191.129 ansible_ssh_user=root ansible_ssh_port=1998
+

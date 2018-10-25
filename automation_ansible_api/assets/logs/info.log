@@ -1,0 +1,230 @@
+[I 20180712 11:58:42 views:56] hello world
+2018-07-12 12:05:27 views.py INFO  hello world
+2018-07-13 16:29:00 views.py INFO  删除主机:aws-bj-rout
+2018-07-13 16:55:57 views.py INFO  用户:172.20.33.146 删除主机:awsbr
+2018-07-13 16:56:30 views.py INFO  用户:devops 删除主机:awsca
+2018-07-13 20:20:35 views.py INFO  用户:devops 删除主机:awsde
+2018-07-15 16:17:11 views.py INFO  用户:devops 删除主机:awsin
+2018-07-16 14:11:09 views.py INFO  用户:devops 删除主机:awsire
+2018-07-16 14:19:52 views.py INFO  用户:devops 删除主机:ali-sz-rout
+2018-07-16 14:20:04 views.py INFO  用户:devops 删除主机:ali-hz-rout
+2018-07-17 17:42:32 views.py INFO  初始化完成
+2018-07-17 17:43:55 views.py INFO  初始化完成
+2018-07-17 17:48:06 views.py INFO  初始化完成
+2018-07-17 17:48:59 views.py INFO  初始化完成
+2018-07-17 17:49:11 views.py INFO  初始化完成
+2018-07-17 17:49:22 views.py INFO  初始化完成
+2018-07-17 17:49:49 views.py INFO  初始化完成
+2018-07-17 17:50:18 views.py INFO  初始化完成
+2018-07-17 17:51:00 views.py INFO  初始化完成
+2018-07-17 17:52:17 views.py INFO  初始化完成
+2018-07-17 17:52:47 views.py INFO  初始化完成
+2018-07-17 17:56:47 views.py INFO  初始化完成
+2018-07-17 17:56:58 views.py INFO  初始化完成
+2018-07-17 17:58:04 views.py INFO  初始化完成
+2018-07-17 17:59:32 views.py INFO  初始化完成
+2018-07-17 18:05:00 views.py INFO  初始化完成
+2018-07-17 18:07:02 views.py INFO  初始化完成
+2018-07-17 18:07:53 views.py INFO  初始化完成
+2018-07-17 18:08:22 views.py INFO  初始化完成
+2018-07-17 18:08:49 views.py INFO  初始化完成
+2018-07-17 19:06:15 views.py INFO  初始化完成
+2018-07-17 19:08:51 views.py INFO  初始化完成
+2018-07-17 19:09:57 views.py INFO  初始化完成
+2018-07-18 10:05:22 views.py INFO  用户:devops 删除主机:ah3x
+2018-07-19 12:13:50 views.py INFO  用户:devops 删除主机组:undefined
+2018-07-19 12:14:42 views.py INFO  用户:devops 删除主机组:李建军
+2018-07-19 14:27:25 views.py INFO  用户:devops 删除主机:ali-bj-m01
+2018-07-19 16:50:17 views.py INFO  用户:devops 创建主机组:None
+2018-07-19 16:50:43 views.py INFO  用户:devops 创建主机组:None
+2018-07-19 16:51:55 views.py INFO  用户:devops 创建主机组:None
+2018-07-19 16:52:44 views.py INFO  用户:devops 创建主机组:None
+2018-07-19 16:53:11 views.py INFO  用户:devops 创建主机组:fffff
+2018-07-19 16:59:51 views.py INFO  用户:devops 创建主机组:123
+2018-07-19 17:02:08 views.py INFO  用户:devops 创建主机组:ops
+2018-07-19 17:05:58 views.py INFO  用户:devops 创建联系人:陈佳乐
+2018-07-19 17:08:44 views.py INFO  用户:devops 删除主机组:陈佳乐
+2018-07-19 17:08:55 views.py INFO  用户:devops 创建联系人:陈佳乐
+2018-07-19 17:32:35 views.py INFO  用户:devops 删除主机组:devops
+2018-07-19 17:32:40 views.py INFO  用户:devops 删除主机组:return
+2018-07-19 17:32:45 views.py INFO  用户:devops 删除主机组:123123132
+2018-07-19 17:32:58 views.py INFO  用户:devops 创建联系人:乐弟弟
+2018-07-19 19:24:52 views.py INFO  用户:devops 修改联系人:乐弟弟
+2018-07-19 19:25:03 views.py INFO  用户:devops 修改联系人:ee
+2018-07-19 19:25:13 views.py INFO  用户:devops 删除主机组:123123
+2018-07-19 19:25:21 views.py INFO  用户:devops 修改主机组:1
+2018-07-19 19:25:39 views.py INFO  用户:devops 创建联系人:123
+2018-07-19 19:25:48 views.py INFO  用户:devops 创建主机组:213
+2018-07-20 10:09:55 views.py INFO  用户:devops 删除主机组:陈佳乐
+2018-07-20 10:10:03 views.py INFO  用户:devops 删除主机组:213
+2018-07-20 10:10:14 views.py INFO  用户:devops 删除主机组:network
+2018-07-20 14:14:58 views.py INFO  用户:devops 删除主机组:123
+2018-07-20 14:15:04 views.py INFO  用户:devops 删除主机组:ff
+2018-07-20 14:15:18 views.py INFO  用户:devops 删除主机组:ops
+2018-07-20 14:20:46 views.py INFO  用户:devops 创建联系人:SET_NULL
+2018-07-20 14:21:11 views.py INFO  用户:devops 删除主机组:李建军
+2018-07-20 14:30:53 views.py INFO  用户:devops 修改联系人:SET_NULL
+2018-07-20 14:33:26 views.py INFO  用户:devops 删除主机:ansible12
+2018-07-20 14:36:21 views.py INFO  用户:devops 删除主机组:SET_NULL1
+2018-07-20 14:48:52 views.py INFO  用户:devops 删除主机组:SET_NULL1
+2018-07-20 14:59:29 views.py INFO  用户:devops 创建联系人:d
+2018-07-20 14:59:36 views.py INFO  用户:devops 删除主机组:d
+2018-07-20 15:00:11 views.py INFO  用户:devops 修改联系人:SET_NULL1
+2018-07-20 15:00:18 views.py INFO  用户:devops 修改联系人:SET_NULL
+2018-07-20 15:49:12 views.py INFO  用户:devops 修改联系人:SET_NULL
+2018-07-20 15:57:03 views.py INFO  用户:devops 修改主机组:33333
+2018-07-20 15:57:08 views.py INFO  用户:devops 删除主机组:33333
+2018-07-20 15:57:23 views.py INFO  用户:devops 创建主机组:韩德天
+2018-07-20 15:57:30 views.py INFO  用户:devops 创建主机组:刘梦溪
+2018-07-20 15:57:35 views.py INFO  用户:devops 删除主机组:韩德天
+2018-07-20 15:57:45 views.py INFO  用户:devops 修改主机组:刘梦溪
+2018-07-20 15:58:04 views.py INFO  用户:devops 创建联系人:韩德田
+2018-07-20 15:58:17 views.py INFO  用户:devops 创建联系人:刘梦希
+2018-07-20 15:58:40 views.py INFO  用户:devops 删除主机组:韩德田
+2018-07-20 16:51:32 views.py INFO  用户:devops 创建联系人:刘梦希
+2018-07-20 16:53:01 views.py INFO  用户:devops 创建联系人:123
+2018-07-20 17:55:17 views.py INFO  用户:devops 删除主机:aws-bj02
+2018-07-20 17:57:51 views.py INFO  用户:devops 创建联系人:陈佳乐
+2018-07-20 17:59:20 views.py INFO  用户:devops 创建联系人:123
+2018-07-20 18:00:28 views.py INFO  用户:devops 删除主机组:jianjun
+2018-07-20 18:03:51 views.py INFO  用户:devops 创建联系人:ManyToManyField
+2018-07-20 18:10:23 views.py INFO  用户:devops 创建联系人:123
+2018-07-20 18:10:46 views.py INFO  用户:devops 删除主机组:123
+2018-07-20 18:11:34 views.py INFO  用户:devops 创建联系人:123
+2018-07-20 18:12:00 views.py INFO  用户:devops 删除主机组:fffff
+2018-07-23 11:44:51 views.py INFO  用户:devops 删除主机:awsde
+2018-07-23 13:32:00 views.py INFO  用户:devops 创建联系人:李建军
+2018-07-23 14:41:15 assets_host.py INFO  用户:devops 添加主机:123.206.59.249
+2018-07-23 14:44:47 assets_group.py INFO  用户:devops 添加主机组:Ops
+2018-07-23 14:48:34 assets_persion.py INFO  用户:devops 添加联系人:李蒙
+2018-07-23 14:51:45 assets_group.py INFO  用户:devops 添加主机组:test
+2018-07-23 14:59:03 assets_group.py INFO  用户:devops 修改主机组:DevOps
+2018-07-23 15:00:03 assets_group.py INFO  用户:devops 删除主机组:test
+2018-07-23 15:01:21 assets_persion.py INFO  用户:devops 添加联系人:李建军
+2018-07-23 15:11:43 assets_persion.py INFO  用户:devops 修改联系人:李建军
+2018-07-23 15:12:28 assets_persion.py INFO  用户:devops 删除联系人:李蒙
+2018-07-23 15:12:43 assets_persion.py INFO  用户:devops 添加联系人:王聪
+2018-07-23 15:12:52 assets_persion.py INFO  用户:devops 删除联系人:王聪
+2018-07-23 15:31:57 assets_host.py INFO  用户:devops 添加主机:gd-sz1-183-134-121-128
+2018-07-23 15:32:10 assets_host.py INFO  用户:devops 删除主机:gd-sz1-183-134-121-128
+2018-07-23 15:33:29 assets_host.py INFO  用户:devops 修改主机:sj-jn1-27-227-103-130
+2018-07-23 16:49:26 assets_host.py INFO  用户:devops 删除主机:zj-nb1-183-131-54-137
+2018-07-23 16:49:31 assets_host.py INFO  用户:devops 删除主机:sj-jn1-27-227-103-130
+2018-07-23 16:49:36 assets_host.py INFO  用户:devops 删除主机:bj-wfj1-123-206-59-249
+2018-07-23 16:55:49 assets_host.py INFO  用户:devops 添加主机:private01
+2018-07-23 16:56:12 assets_host.py INFO  用户:devops 添加主机:private02
+2018-07-23 16:56:39 assets_host.py INFO  用户:devops 添加主机:publice01
+2018-07-23 16:56:54 assets_host.py INFO  用户:devops 添加主机:publice02
+2018-07-23 16:57:23 assets_host.py INFO  用户:devops 添加主机:publice03
+2018-07-23 17:08:18 assets_persion.py INFO  用户:devops 修改联系人:马化腾
+2018-07-23 17:08:31 assets_persion.py INFO  用户:devops 修改联系人:马
+2018-07-24 11:03:45 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-24 11:03:54 assets_host.py INFO  用户:devops 修改主机:publice02
+2018-07-24 11:04:04 assets_host.py INFO  用户:devops 修改主机:publice01
+2018-07-24 11:04:16 assets_host.py INFO  用户:devops 修改主机:private01
+2018-07-24 18:18:34 assets_host.py INFO  用户:devops 添加主机:bj-txy-140-143-191-129
+2018-07-24 18:48:32 assets_host.py INFO  用户:devops 添加主机:123
+2018-07-24 18:49:00 assets_host.py INFO  用户:devops 删除主机:bj-txy-140-143-191-129
+2018-07-24 18:52:38 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-24 19:27:35 assets_host.py INFO  用户:devops 修改主机:123
+2018-07-24 19:27:47 assets_host.py INFO  用户:devops 修改主机:123
+2018-07-24 19:29:09 assets_host.py INFO  用户:devops 修改主机:123
+2018-07-24 19:29:33 assets_host.py INFO  用户:devops 修改主机:123
+2018-07-24 19:30:01 assets_host.py INFO  用户:devops 添加主机:test
+2018-07-24 19:32:42 assets_host.py INFO  用户:devops 修改主机:123
+2018-07-24 19:47:11 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-24 19:50:44 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-24 19:52:58 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-24 20:01:37 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-24 20:02:08 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-24 20:04:41 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-24 20:06:42 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-24 20:06:55 assets_host.py INFO  用户:devops 修改主机:123
+2018-07-24 20:13:58 assets_host.py INFO  用户:devops 修改主机:123
+2018-07-24 20:14:07 assets_host.py INFO  用户:devops 修改主机:123
+2018-07-24 20:18:21 assets_host.py INFO  用户:devops 修改主机:123
+2018-07-24 20:18:34 assets_host.py INFO  用户:devops 修改主机:123
+2018-07-24 20:26:36 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-25 09:57:22 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-25 09:58:18 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-25 10:00:53 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-25 10:01:21 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-25 10:01:34 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-25 10:02:16 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-25 10:02:34 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-25 10:02:44 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-25 10:03:48 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-25 10:07:20 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-25 10:07:41 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-25 10:08:03 assets_host.py INFO  用户:devops 添加主机:ans
+2018-07-25 10:11:06 assets_host.py INFO  用户:devops 修改主机:test
+2018-07-25 10:13:53 assets_host.py INFO  用户:devops 修改主机:ans
+2018-07-25 14:03:24 assets_host.py INFO  用户:devops 删除主机:test
+2018-07-25 14:03:43 assets_host.py INFO  用户:devops 修改主机:ans
+2018-07-25 14:12:16 assets_host.py INFO  用户:devops 修改主机:ans
+2018-07-25 14:14:12 assets_host.py INFO  用户:devops 修改主机:123
+2018-07-25 14:16:10 assets_host.py INFO  用户:devops 删除主机:ans
+2018-07-25 14:16:18 assets_host.py INFO  用户:devops 删除主机:123
+2018-07-25 14:16:40 assets_host.py INFO  用户:devops 添加主机:创建测试
+2018-07-25 14:18:09 assets_host.py INFO  用户:devops 修改主机:创建测试
+2018-07-25 14:19:41 assets_host.py INFO  用户:devops 修改主机:创建测试
+2018-07-25 14:22:10 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-25 14:23:05 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-25 15:13:48 assets_host.py INFO  用户:devops 修改主机:创建测试
+2018-07-25 15:19:57 assets_host.py INFO  用户:devops 修改主机:创建测试
+2018-07-25 15:23:53 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-25 15:25:29 assets_host.py INFO  用户:devops 修改主机:创建测试
+2018-07-25 15:29:27 assets_host.py INFO  用户:devops 修改主机:创建测试
+2018-07-25 15:29:34 assets_host.py INFO  用户:devops 修改主机:创建测试
+2018-07-25 15:31:14 assets_host.py INFO  用户:devops 修改主机:创建测试
+2018-07-25 15:35:23 assets_host.py INFO  用户:devops 修改主机:创建测试
+2018-07-25 15:35:34 assets_host.py INFO  用户:devops 修改主机:创建测试
+2018-07-25 15:36:30 assets_host.py INFO  用户:devops 删除主机:创建测试
+2018-07-25 15:46:01 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-25 16:01:25 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-25 16:37:19 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-25 18:33:44 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-25 18:34:09 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-25 18:34:20 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-25 20:30:49 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-26 10:49:47 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-26 10:50:05 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-26 10:50:25 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-26 11:02:36 assets_host.py INFO  用户:devops 修改主机:publice03
+2018-07-26 12:11:04 assets_host.py INFO  用户:devops 删除主机:publice03
+2018-07-26 13:46:58 assets_host.py INFO  用户:devops 修改主机:publice02
+2018-07-26 13:53:17 assets_host.py INFO  用户:devops 添加主机:ans
+2018-07-26 13:53:26 assets_host.py INFO  用户:devops 删除主机:ans
+2018-07-26 15:12:54 assets_host.py INFO  用户:devops 添加主机:myistest
+2018-07-26 15:47:00 assets_host.py INFO  用户:devops 添加主机:5800
+2018-07-26 16:33:59 assets_host.py INFO  用户:devops 修改主机:5800
+2018-07-26 19:56:26 assets_host.py INFO  用户:devops 修改主机:myistest
+2018-07-26 19:56:44 assets_host.py INFO  用户:devops 修改主机:5800
+2018-07-27 14:41:03 assets_host.py INFO  用户:zongyang.yu 添加主机:bgp-bj-wj-123-206-59-240
+2018-07-29 16:23:02 assets_group.py INFO  用户:devops 修改主机组:Devops
+2018-08-07 19:55:11 assets_host.py INFO  用户:devops 修改主机:5800
+2018-08-17 18:38:43 assets_host.py INFO  用户:devops 添加主机:test
+2018-09-18 14:05:48 assets_host.py INFO  用户:yuyang 修改主机:netpas-lab7
+2018-10-15 10:07:06 assets_host.py INFO  用户:yuyang 添加主机:14.143.191.129
+2018-10-15 11:56:34 assets_host.py INFO  用户:yuyang 修改主机:openstack-node2
+2018-10-15 13:10:04 assets_host.py INFO  用户:yuyang 修改主机:14.143.191.129
+2018-10-15 13:10:42 assets_host.py INFO  用户:yuyang 修改主机:140.143.191.129
+2018-10-15 13:12:25 assets_host.py INFO  用户:yuyang 修改主机:1233333
+2018-10-15 13:12:35 assets_host.py INFO  用户:yuyang 修改主机:1233333
+2018-10-15 13:35:25 assets_host.py INFO  用户:yuyang 删除主机:test
+2018-10-15 13:35:30 assets_host.py INFO  用户:yuyang 删除主机:12333334
+2018-10-15 13:35:47 assets_host.py INFO  用户:yuyang 添加主机:测试机器
+2018-10-15 13:44:34 assets_host.py INFO  用户:yuyang 修改主机:bgp-bj-txy-140-143-191-129
+2018-10-15 13:45:28 assets_host.py INFO  用户:yuyang 修改主机:bgp-bj-txy-140-143-191-129
+2018-10-15 13:47:26 assets_group.py INFO  用户:yuyang 删除主机组:devops
+2018-10-15 13:47:40 assets_host.py INFO  用户:yuyang 修改主机:openstack-node2
+2018-10-15 13:48:07 assets_host.py INFO  用户:yuyang 添加主机:10-10-2-116
+2018-10-15 13:55:14 assets_host.py INFO  用户:yuyang 删除主机:True
+2018-10-16 11:16:14 assets_host.py INFO  用户:yuyang 添加主机:虚拟机
+2018-10-16 13:05:24 assets_host.py INFO  用户:yuyang 修改主机:bgp-bj-txy-140-143-191-129
+2018-10-16 15:09:09 assets_persion.py INFO  用户:yuyang 修改联系人:马化腾
+2018-10-19 10:20:44 assets_host.py INFO  用户:yuyang 修改主机:True
+2018-10-19 11:37:17 assets_persion.py INFO  用户:yuyang 修改联系人:马化腾
+2018-10-19 11:37:26 assets_persion.py INFO  用户:yuyang 修改联系人:马云
+2018-10-19 11:37:43 assets_persion.py INFO  用户:yuyang 修改联系人:李彦宏
+2018-10-19 11:37:51 assets_persion.py INFO  用户:yuyang 修改联系人:张一鸣

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset="utf-8">
+    <title>work</title>
+</head>
+<body>
+    
+    <label id="input_val">请输入值:</label>
+    <input id="input_val" type="text">
+    <button id="bnt" >排序</button>
+
+
+<script type="text/javascript">
+
+    let bnt = document.getElementById('bnt');
+
+    bnt.onclick = () => {
+        let source_value = document.getElementsByTagName('input')[0].value
+        
+        if (!source_value) {
+            return 
+        }
+
+        let teml = "";
+        var array = []
+        var control = true;
+        var count = 0;
+        for (let i in source_value) {
+            if (source_value[i].toUpperCase() == source_value[i] && control && source_value[0].toUpperCase() == source_value[i]) {
+
+               array.push(source_value[i])
+            } else if (source_value[i].toLowerCase() == source_value[i]) {
+                array[count] += source_value[i]
+                control = false;
+            } else {
+                array.push(source_value[i].toLowerCase())
+                teml = ''
+                //teml = source_value[i];
+                control = true
+                count ++ 
+
+            }
+        }
+        console.log(array.join(' '))
+       
+    }
+
+   
+</script>
+</body>
+</html>

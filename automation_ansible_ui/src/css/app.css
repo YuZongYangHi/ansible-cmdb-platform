@@ -1,0 +1,25 @@
+
+
+.logo-index {
+    height: 100px;
+    /*background: rgba(9, 157, 226, 0.219);*/
+   /* margin: 30px;*/
+    margin: 20px 0 30px 0;
+    line-height: 100px;
+    text-align: center;
+    font-family: arial;
+    color:skyblue;
+    text-align: center;
+}
+
+.logo-index img {
+    width:120px;
+    height:120px;
+    background-size: 10px 20px;
+    line-height: 100px;
+    cursor: pointer;
+}
+
+/*.ant-layout-sider {
+    height: 100%% !important;
+}*/

@@ -1,0 +1,3 @@
+- hosts: Development
+  tasks:
+  - {name: start, shell: ls}

@@ -1,0 +1,30 @@
+.login-block {
+    width:400px;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    top:35%;
+    margin-left: -200px;
+    margin-top:-200px;
+    box-shadow:0 0 100px rgba(0, 0, 0, 0.08)
+}
+
+.forms {
+    margin-top:20px;
+    text-align: center;
+    padding:40px;
+    border:1px solid transparent;
+}
+
+.logo {
+    text-align: center;
+    padding-top:20px;
+}
+
+.logo img {
+    width:100px;
+    height: 100px;
+  /*  border-radius: 50%;*/
+    text-align: center;
+    cursor: pointer;
+}
