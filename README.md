@@ -24,6 +24,12 @@ cmdb & ansible
 ``发布详情展示发布任务状况，如发布完成会以json格式展示到页面``
 ![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number6.gif)
 
+``定时任务，完美替换crontab以celery进行异步任务分发，结合ansible api模式``
+![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number7.gif)
+
+``定时任务时间可进行增删查，与crontab设置方式一致``
+![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number8.gif)
+
 ``4、日志管理(登录日志，操作日志记录)``
 
 ``后端:Django2.0.1``
