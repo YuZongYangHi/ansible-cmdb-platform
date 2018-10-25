@@ -1,0 +1,5 @@
+django==2.0.1
+celery
+redis
+pymysql
+python-memcached 
