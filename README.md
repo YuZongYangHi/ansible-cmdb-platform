@@ -9,6 +9,7 @@ cmdb & ansible
 ``2、资产管理(主机管理，ansible主机群组管理，负责人管理)``
 ![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number2.gif)
 
+![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number3.gif)
 
 ``3、发布管理(发布任务，发布详情，定时任务)``
 
