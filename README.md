@@ -27,10 +27,14 @@ cmdb & ansible
 ``定时任务，完美替换crontab以celery进行异步任务分发，结合ansible api模式``
 ![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number7.gif)
 
-``定时任务时间可进行增删查，与crontab设置方式一致``
+``结合celery任务，进行服务器查看是否实时进行任务发布``
 ![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number8.gif)
 
+``定时任务时间可进行增删查，与crontab设置方式一致``
+![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number9.gif)
+
 ``4、日志管理(登录日志，操作日志记录)``
+![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number10.png)
 
 ``后端:Django2.0.1``
 
