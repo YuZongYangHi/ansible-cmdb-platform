@@ -2,12 +2,14 @@ cmdb & ansible
 
 
 
-``1、视图分析图``
+``视图分析图``
 ![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number1.gif)
 
 
-``2、资产管理(主机管理，ansible主机群组管理，负责人管理)``
+``资产管理(主机管理，ansible主机群组管理，负责人管理)``
 ![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number2.gif)
+
+``基于ansible fact进行设备硬件收集，可进行更新与设备信息同步或者手动编辑修改``
 
 ![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number3.gif)
 
