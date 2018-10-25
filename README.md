@@ -1,6 +1,8 @@
 cmdb & ansible 
 
+``如果你愿意，可以基于目前的平台去再一次进行封装以及二次开发，目前实现的功能不是很多，因为从头到尾都是一人在做，想到的东西肯定不会很多``
 
+``QQ:1301927919 欢迎咨询交流``
 
 ``视图分析图``
 ![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number1.gif)
