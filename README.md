@@ -17,7 +17,9 @@ cmdb & ansible
 ![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number4.gif)
 
 
-``3、发布管理(发布任务，发布详情，定时任务)``
+``基于ansible2.4+ api进行adhoc模式或playbook模式进行任务批量分发，基于异步非阻塞方式，只允许一个任务进行发布``
+
+![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number5.gif)
 
 ``4、日志管理(登录日志，操作日志记录)``
 
