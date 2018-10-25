@@ -21,6 +21,9 @@ cmdb & ansible
 
 ![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number5.gif)
 
+``发布详情展示发布任务状况，如发布完成会以json格式展示到页面``
+![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number6.gif)
+
 ``4、日志管理(登录日志，操作日志记录)``
 
 ``后端:Django2.0.1``
