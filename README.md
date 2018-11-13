@@ -1,8 +1,5 @@
 cmdb & ansible 
 
-``如果你愿意，可以基于目前的平台去再一次进行封装以及二次开发，目前实现的功能不是很多，因为从头到尾都是一人在做，想到的东西肯定不会很多``
-
-``QQ:1301927919 欢迎咨询交流``
 
 ``视图分析图``
 ![image](https://github.com/YuZongYangHi/ansible-cmdb/blob/master/image/number1.gif)
@@ -44,18 +41,6 @@ cmdb & ansible
 
 ``DB: MySQL5.7+ + Redis + Memcache + MongoDB``
 
-``
-支持定时检测主机存活状况，基于ansible fact进行主机硬件信息收集，展示，可支持更新
-``
-
-``
-基于ansible api 2.4+ 方式调用发布主机，可基于ad-hoc模式 && play-book模式
-``
-
-
-``
-基于异步非阻塞模式进行任务发布，定时任务完全替代crontab利用celery进行异步任务分发,基于ansible api方式进行主机群组模式或主机多选模式进行定时任务分发！
-``
 
 ``
 pip -r package_list.txt
